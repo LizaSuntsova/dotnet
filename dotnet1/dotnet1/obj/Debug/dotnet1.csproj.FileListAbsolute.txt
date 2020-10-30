@@ -1,0 +1,6 @@
+C:\Temp\dotnet\dotnet\dotnet1\dotnet1\bin\Debug\dotnet1.exe.config
+C:\Temp\dotnet\dotnet\dotnet1\dotnet1\bin\Debug\dotnet1.exe
+C:\Temp\dotnet\dotnet\dotnet1\dotnet1\bin\Debug\dotnet1.pdb
+C:\Temp\dotnet\dotnet\dotnet1\dotnet1\obj\Debug\dotnet1.csprojResolveAssemblyReference.cache
+C:\Temp\dotnet\dotnet\dotnet1\dotnet1\obj\Debug\dotnet1.exe
+C:\Temp\dotnet\dotnet\dotnet1\dotnet1\obj\Debug\dotnet1.pdb
