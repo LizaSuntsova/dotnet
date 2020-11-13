@@ -1,0 +1,6 @@
+C:\Temp\123\13.11\13.11\13.11\bin\Debug\13.11.exe.config
+C:\Temp\123\13.11\13.11\13.11\bin\Debug\13.11.exe
+C:\Temp\123\13.11\13.11\13.11\bin\Debug\13.11.pdb
+C:\Temp\123\13.11\13.11\13.11\obj\Debug\13.11.csprojResolveAssemblyReference.cache
+C:\Temp\123\13.11\13.11\13.11\obj\Debug\13.11.exe
+C:\Temp\123\13.11\13.11\13.11\obj\Debug\13.11.pdb
